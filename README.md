@@ -1,4 +1,4 @@
-# El_Trio_Terry
+﻿# El_Trio_Terry
 El proyecto mas Terry de los Terrys mas Terrys de 11-14 
 
 
@@ -31,6 +31,13 @@ Es mas rapido que un disco duro tradicional (HDD).
 ### `Framework` - Un framework es una estructura predefinida que proporciona herramientas, librerías y buenas prácticas para desarrollar software. Su propósito es simplificar el trabajo del programador, evitando que tenga que empezar desde cero. Incluye componentes reutilizables y una forma organizada de construir aplicaciones. Por ejemplo, hay frameworks para desarrollo web, móvil o incluso inteligencia artificial. Usar un framework ayuda a mantener el código más limpio, escalable y fácil de mantener.)*
 ---
 ## Terminos Generales de Programacion
-*(Esta seccion sera completada por el Lider)*
+*(
+### `Algoritmo` - Conjunto de pasos ordenados para resolver un problema.
+
+
+### `Programa` - Conjunto de instrucciones que una computadora puede ejecutar.
+
+
+### `Lenguaje de programación` - Forma de comunicarse con la computadora (ej: Python, Java, C++).)*
 ---
-*Ultima actualizacion: [fecha]*
+*Ultima actualizacion: [19/03/26]*
